@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Namaku Rifky akbar
 <p align="center">
 <img src="https://raw.githubusercontent.com/BotGua/Q/main/aris/SAVE_20201214_222828.jpg" width="230" height="230"/>
 </p>
